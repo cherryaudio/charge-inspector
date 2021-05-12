@@ -14,7 +14,7 @@
         "laravel-mix": "^1.0"
     },
     "dependencies": {
-        "codemirror": "^5.47.0",
+        "codemirror": "^5.58.2",
         "vue": "^2.5.0",
         "vue-json-tree-view": "^2.1.4"
     }
